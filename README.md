@@ -73,7 +73,9 @@ You may also see any lint errors in the console.
 
 ## Key Takeaways & Successes
 
-- Understood how a full stack application is somewhat built.
+- Increased understanding of how a full stack application is built.
 - Comfortable with integrating frontend and backend.
 - Able to install and use libraries that were responsible for the heavy lifting and made it more efficient for me as the developer to progress.
+- Increased understanding of how peer to peer services can be created.
+- Able to include chats with multiple users!
 
