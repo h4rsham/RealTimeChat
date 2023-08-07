@@ -1,4 +1,4 @@
-# Full Stack Chat App Experimentation
+# Full Stack Chat App Experimentation💬
 
 ## Description
 
