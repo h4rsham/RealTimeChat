@@ -2,11 +2,15 @@
 
 ## Description
 
-This is a functioning Full Stack React Chat application, made predominantly to understand the integration of a frontend and backend application using services such as React, Node.js and chatengine.io to store data regarding users, messages and online status'.
+This is a functioning Full Stack React Chat application, made predominantly to understand the integration of a frontend and backend application using services such as Vite, React, Node.js and chatengine.io to store data regarding users, messages and online status'.
 
 ## Demo
 
-Coming soon...
+<img src="./frontend/src/assets/homepage.png" alt="homepage">
+<img src="./frontend/src/assets/loggedin.png" alt="loggedin">
+<img src="./frontend/src/assets/messagesent.png" alt="messagesent">
+<img src="./frontend/src/assets/messagereceived.png" alt="messagereceived">
+
 
 ## Getting Started
 
@@ -54,6 +58,7 @@ You may also see any lint errors in the console.
 
 ## Built With
 
+- [Vite](https://vitejs.dev/) - Build tool for modern web apps.
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [Node.js](https://nodejs.org/) - JavaScript runtime for server-side applications.
 - [ChatEngine](https://www.chatengine.io/) - Chat development framework.
