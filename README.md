@@ -1,10 +1,8 @@
-This will be a real time chat application made with React, Node.js and chatengine.io. More will follow as the project matures.
-
-# Full Stack Chat App
+# Full Stack Chat App Experimentation
 
 ## Description
 
-This is a Full Stack React Chat application, made predominantly to understand the integration of a frontend and backend application using services such as React, Node.js and chatengine.io to store data regarding users, messages and online status'.
+This is a functioning Full Stack React Chat application, made predominantly to understand the integration of a frontend and backend application using services such as React, Node.js and chatengine.io to store data regarding users, messages and online status'.
 
 ## Demo
 
@@ -56,12 +54,21 @@ You may also see any lint errors in the console.
 
 ## Built With
 
-- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [Node.js](https://nodejs.org/) - JavaScript runtime for server-side applications.
+- [ChatEngine](https://www.chatengine.io/) - Chat development framework.
 - [react-chat-engine-pretty](https://chatengine.io/docs/react/v1/customize_ui/components) - Developer-friendly Chat UI Kit.
 
 
-## Future Improvements
+## Future Improvements & Challenges Faced
 
-- 
+- Incorporate a sign up page.
+- Host online for mass usage to simulate and create my very own messaging service.
+
+
+## Key Takeaways & Successes
+
+- Understood how a full stack application is somewhat built.
+- Comfortable with integrating frontend and backend.
+- Able to install and use libraries that were responsible for the heavy lifting and made it more efficient for me as the developer to progress.
 
